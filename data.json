@@ -1,0 +1,145 @@
+{
+  "headerData": {
+    "logoImgV1": "/images/header/logoV1.png",
+    "logoImgV2": "/images/header/logoV2.png",
+    "btnText": "Contact us"
+  },
+
+  "navData": [
+    { "name": "About", "href": "/" },
+    { "name": "How to", "href": "/" },
+    { "name": "Faqs", "href": "/" }
+  ],
+
+  "heroData": {
+    "title": "Focus on living, we got you.",
+    "sceneImg": "/images/hero/scene.svg",
+    "boyImg": "/images/hero/boy.svg",
+    "girlImg": "/images/hero/girl.svg",
+    "truckImg": "/images/hero/truck.svg",
+    "btnText": "Get Started"
+  },
+
+  "aboutData": {
+    "title": "About us",
+    "subtitle": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, eius consectetur temporibus nisi accusantium adipisci deleniti. Nam placeat architecto doloribus. Magnam corporis ratione fugiat laudantium!",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, eius consectetur?",
+    "boyImg": "/images/about/boy.svg"
+  },
+
+  "howData": {
+    "title": "How to apply",
+    "subtitle": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, eius consectetur temporibus nisi accusantium adipisci deleniti. Nam placeat architecto doloribus. Magnam corporis ratione fugiat laudantium!",
+    "girlImg": "/images/how/girl.svg"
+  },
+
+  "faqData": {
+    "pretitle": "faq",
+    "title": "Questions and Answers on Professional Medical Field:",
+    "boyImg": "/images/faq/boy.svg",
+    "accordions": [
+      {
+        "question": "Lorem ipsum dolor sit amet consectetur?",
+        "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, voluptatum. Voluptatem, fugiat?"
+      },
+      {
+        "question": "Lorem ipsum dolor sit amet consectetur",
+        "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, voluptatum."
+      },
+      {
+        "question": "Lorem ipsum dolor sit amet consectetur",
+        "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, voluptatum. Voluptatem, fugiat?"
+      },
+      {
+        "question": "Lorem ipsum dolor sit amet consectetur",
+        "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, voluptatum."
+      },
+      {
+        "question": "Lorem ipsum dolor sit amet consectetur",
+        "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, voluptatum. Voluptatem, fugiat?"
+      },
+      {
+        "question": "Lorem ipsum dolor sit amet consectetur",
+        "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, voluptatum."
+      },
+      {
+        "question": "Lorem ipsum dolor sit amet consectetur",
+        "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, voluptatum. Voluptatem, fugiat?"
+      },
+      {
+        "question": "Lorem ipsum dolor sit amet consectetur",
+        "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, voluptatum."
+      },
+      {
+        "question": "Lorem ipsum dolor sit amet consectetur",
+        "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, voluptatum. Voluptatem, fugiat?"
+      },
+      {
+        "question": "Lorem ipsum dolor sit amet consectetur",
+        "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, voluptatum."
+      },
+      {
+        "question": "Lorem ipsum dolor sit amet consectetur",
+        "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, voluptatum. Voluptatem, fugiat?"
+      },
+      {
+        "question": "Lorem ipsum dolor sit amet consectetur",
+        "answer": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aut, voluptatum."
+      }
+    ]
+  },
+  "testimonialData": {
+    "pretitle": "testimonials",
+    "title": "Our Awesome Clients",
+    "clients": [
+      {
+        "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, eius consectetur temporibus nisi accusantium adipisci deleniti.",
+        "image": "/images/testimonials/avatar1.png",
+        "name": "Isak Pettersson"
+      },
+      {
+        "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, eius consectetur temporibus nisi accusantium adipisci deleniti.",
+        "image": "/images/testimonials/avatar2.png",
+        "name": "Simon Sandberg"
+      },
+      {
+        "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, eius consectetur temporibus nisi accusantium adipisci deleniti.",
+        "image": "/images/testimonials/avatar3.png",
+        "name": "Melissa Doe"
+      },
+      {
+        "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, eius consectetur temporibus nisi accusantium adipisci deleniti.",
+        "image": "/images/testimonials/avatar1.png",
+        "name": "Isak Pettersson"
+      },
+      {
+        "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, eius consectetur temporibus nisi accusantium adipisci deleniti.",
+        "image": "/images/testimonials/avatar2.png",
+        "name": "Simon Sandberg"
+      },
+      {
+        "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, eius consectetur temporibus nisi accusantium adipisci deleniti.",
+        "image": "/images/testimonials/avatar3.png",
+        "name": "Melissa Doe"
+      }
+    ]
+  },
+  "footerData": {
+    "truckImg": "/images/footer/truck.svg",
+    "hillImg": "/images/footer/hill.svg",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, eius consectetur temporibus nisi accusantium adipisci deleniti.",
+    "logo": "/images/footer/logo.svg",
+    "links": [
+      { "name": "about", "href": "/" },
+      { "name": "how to", "href": "/" },
+      { "name": "faqs", "href": "/" }
+    ],
+    "form": {
+      "labelName": "Name",
+      "placeholderName": "Your name",
+      "labelEmail": "Email address",
+      "placeholderEmail": "Your email adddress",
+      "btnText": "Get Started"
+    }
+  }
+}
